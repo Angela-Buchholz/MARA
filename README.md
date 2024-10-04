@@ -12,8 +12,7 @@ MARA calculates the averages in intervals provided by the user, converts the uni
 MARA contains a method to estimate the contribution of multiple charged particles from pToF data. Additionally, MARA contains a separate Multi Charged particle Estimator (MCE) panel to estimate the contribution of double and triple charged particles.
 
 More details about MARA can be found at:
-
-	https://docs.google.com/document/d/1g9_6UizgG57PbkH34DTIw1wTK1b5qWNsz7faqbAE0Vo/edit?usp=sharing
+[MARA user manual](https://docs.google.com/document/d/1g9_6UizgG57PbkH34DTIw1wTK1b5qWNsz7faqbAE0Vo/edit?usp=sharing)
 
 MARA has been tested in Igor 9 but should be compatible with Igor 7&8.
 
